@@ -1,8 +1,8 @@
 # rtracer
 a simple raytracer with multithreading and networking
 
-![alt text][atome][scene]
-![alt text][pool][android]
+![alt text][atome] ![alt text][scene]
+![alt text][pool] ![alt text][android]
 
 [atome]: ./screenshot/atome.png
 [android]: ./screenshot/android.png
